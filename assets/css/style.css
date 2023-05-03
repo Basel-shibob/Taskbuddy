@@ -195,7 +195,7 @@ body.loaded {
 .container,
 .main,
 .app-box {
-  height: 100%;
+  height: 90vh
 }
 
 .h1,
