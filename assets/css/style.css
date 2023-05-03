@@ -195,8 +195,11 @@ body.loaded {
 .container,
 .main,
 .app-box {
-  height: 90vh
+  height: 85vh
 }
+
+
+
 
 .h1,
 .h2 {
